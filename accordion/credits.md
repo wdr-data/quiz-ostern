@@ -1,14 +1,18 @@
 ### Bildrechte:
-
-- - Aufmacher-Bild: Richard Wagner und seine Freunde, Foto von Joseph Albert (picture alliance / akg-images)
-
-- - Bild 2: Der Wuppertaler Opernintendant Berthold Schneider, fotografiert von Jens Grossmann
+1.  Agentur: picture alliance / Zoonar – Fotograf: Barbara Neveu
+2.  Agentur: WDR / picture alliance / Westend61 – Fotograf: SRS
+3.  Agentur: WDR / picture alliance / zb – Fotograf: Andreas Franke
+4.  Agentur: WDR / Simone Szymanski – Fotograf: Simone Szymanski
+5.  Agentur: picture alliance / Newscom – Fotograf: Prentice C. James
+6.  Agentur: WDR / dpa
+7.  Agentur: dpa – Fotograf: Lino Mirgeler
+8.  Agentur: WDR / Anke Westermann – Fotograf: Anke Westermann
+9.  Agentur: picture alliance / imageBROKER – Fotograf: Herbert Kehrer
+10. Agentur: picture alliance / Zoonar – Fotograf: Barbara Neveu
 
 ### Credits
 
-- **Redaktion:** Niklas Rudolph, Urs Zietan, Jutta Starke
-- **Design:** Chrissi Holderbaum, Dilek Wache
-- **Programmierung:** Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
+- **Redaktion:** Sarah Biere, Giselle Ucar
+- **Design:** Jannes Höke, Chrissi Holderbaum, Dilek Wache
+- **Programmierung:** Jannes Höke, Christine Gotthardt, Marcus Weiner, Jakob Holderbaum, Patricia Ennenbach
 - **Accessability, UX:** Dilek Wache, Stephanie Juranek
-- **Datenrecherche:** Felix Buczek, Hannah Schmidt, Anne Glaser, Robert Haase, Greta Hey, Inge Akyaa, Katharina Riethmüller
-- **Besondere Unterstützung:** Dr. Olaf Roth, Musiktheater im Revier
