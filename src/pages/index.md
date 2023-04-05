@@ -1,7 +1,7 @@
 ---
 title: "Das große Oster-Quiz"
 description: Beantworten Sie alle zehn Fragen richtig?
-author: Giselle Ucar
+author: Timo Landenberger, Katja Goebel
 pub_date: "2023-04-06"
 heroImage: "aufmacher.png"
 heroAlt: "Das große Oster-Quiz"
@@ -23,7 +23,7 @@ import { Quiz, Image as QuizImage, Question, Answer, Result, Score as QuizScore 
 
 # Oster-Quiz: Beantworten Sie alle zehn Fragen richtig?
 
-Traditionelle Bräuche, weltbekannte Botschaften, praktische Rituale - Jahr für Jahr feiern wir die Osterzeit. Wir freuen uns auf die Feiertage, färben liebevoll Eier und  speisen gerne traditionell. Mancher Osterbrauch in NRW brachte es sogar schon zum Weltkulturerbe.
+Traditionelle Bräuche, weltbekannte Botschaften, praktische Rituale - Jahr für Jahr feiern wir die Osterzeit. Wir freuen uns auf die Feiertage, färben liebevoll Eier und speisen gerne traditionell. Mancher Osterbrauch in NRW brachte es sogar schon zum Weltkulturerbe.
 
 Wie gut kennen Sie sich mit den Osterbräuchen aus? Testen Sie ihr Wissen!
 
@@ -45,8 +45,8 @@ Nach dem neuen Testament ist Jesus am dritten Tag nach seiner Kreuzigung von den
 <QuizImage src="q02.png" alt="Nest mit bunten Ostereiern" />
 <Question>**Was steckt hinter den bunten Eiern?**</Question>
 <Answer>Farbige Eier sollten den Teufel vertreiben</Answer>
-<Answer correct>Kennzeichnung, um gekochten Eier von rohen zu unterscheiden</Answer>
-<Answer>Damit Kinder sie beim Suchen schneller finden</Answer>
+<Answer correct>Kennzeichnung, um gekochte Eier von rohen zu unterscheiden</Answer>
+<Answer>Kinder finden sie schneller beim Suchen</Answer>
 <Answer>Bunte Glücksbringer, jede Farbe hat eine andere Bedeutung</Answer>
 <Result>
 In der Fastenzeit durften keine Eier gegessen werden. Deshalb wurden sie gekocht, um sie haltbar zu machen. Durch das Färben konnten sie von den rohen Eiern unterschieden werden. Im Mittelalter wurden die Eier hauptsächlich rot gefärbt, womit das Blut Jesu symbolisiert werden sollte.
@@ -56,7 +56,7 @@ In der Fastenzeit durften keine Eier gegessen werden. Deshalb wurden sie gekocht
 <Quiz>
 <QuizImage src="q03.png" alt="Korb mit einem Kaninchen und bemalten Eiern" />
 <Question>**Warum bringt der Osterhase die Eier?**</Question>
-<Answer>Durch einen Übersetzungsfehler</Answer>
+<Answer>Wegen eines Übersetzungsfehlers</Answer>
 <Answer>Weil Hühner nach christlichem Glauben unrein sind</Answer>
 <Answer correct>Hasen sind ein Symbol der Fruchtbarkeit</Answer>
 <Answer>Das war ursprünglich ein Werbegag aus den USA</Answer>
@@ -81,11 +81,11 @@ An Karfreitag wurde Jesus gekreuzigt. In Gedenken daran wird in der katholischen
 
 <Quiz>
 <QuizImage src="q05.png" alt="Kind winkt vom Rücksitz eines Autos" />
-<Question>**Warum heißt es eigentlich „Kar“?**</Question>
+<Question>**Warum heißt es eigentlich "Kar"?**</Question>
 <Answer correct>Althochdeutsch Kara = Trauer</Answer>
 <Answer>Italienisch "carnevale" = Fleisch, lebe wohl</Answer>
-<Answer>Lateinisch „carpe“ = pflücken</Answer>
-<Answer>Griechisch „carcinos“ = vermehren</Answer>
+<Answer>Lateinisch "carpe" = pflücken</Answer>
+<Answer>Griechisch "carcinos" = vermehren</Answer>
 <Result>
 Der Begriff kommt vom althochdeutschen Kara, was so viel bedeutet wie Kummer oder Trauer. Am Karfreitag und Karsamstag wird also der Tod Jesu betrauert, bevor am Ostersonntag, dem eigentlichen Osterfest, seine Auferstehung gefeiert wird.
 </Result>
@@ -167,7 +167,7 @@ texts={{
     0: "Quizmaster in Sachen Ostern sind Sie nicht. Aber probieren Sie es doch gleich nochmal. Man wächst an seinen Aufgaben!",
     4: "Nicht schlecht, aber da ist noch Luft nach oben. Einen Schokohasen hätten Sie sich allemal verdient.",
     6: "Wow – verdammt nah dran. Beim nächsten Oster-Smalltalk können Sie locker mitreden.",
-    9: "Fast! Nur noch eine richtige Antwort und Sie wären tatsächlich Quizprofi!",
+    9: "Fast! Nur noch eine richtige Antwort und Sie wären tatsächlich Oster-Quizprofi!",
     10: "Glückwunsch! Das kann man nicht besser machen! Sie könnten glatt als Osterhase durchgehen.",
 }}
 />
