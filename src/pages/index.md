@@ -81,11 +81,11 @@ An Karfreitag wurde Jesus gekreuzigt. In Gedenken daran wird in der katholischen
 
 <Quiz>
 <QuizImage src="q05.jpg" alt="Kind winkt vom Rücksitz eines Autos" />
-<Question>**Warum heißt es eigentlich "Kar"?**</Question>
+<Question>**Warum heißt es eigentlich "Kar"-Freitag?**</Question>
 <Answer correct>Althochdeutsch Kara = Trauer</Answer>
 <Answer>Italienisch "carnevale" = Fleisch, lebe wohl</Answer>
 <Answer>Lateinisch "carpe" = pflücken</Answer>
-<Answer>Griechisch "carcinos" = vermehren</Answer>
+<Answer>Englisch "car" = Auto, Autofahrtag</Answer>
 <Result>
 Der Begriff kommt vom althochdeutschen Kara, was so viel bedeutet wie Kummer oder Trauer. Am Karfreitag und Karsamstag wird also der Tod Jesu betrauert, bevor am Ostersonntag, dem eigentlichen Osterfest, seine Auferstehung gefeiert wird.
 </Result>
@@ -93,7 +93,7 @@ Der Begriff kommt vom althochdeutschen Kara, was so viel bedeutet wie Kummer ode
 
 <Quiz>
 <QuizImage src="q06.jpg" alt="Der Papst spricht von seinem Balkon" />
-<Question>**Wie heißt der traditionelle Ostergruß des Papstes?**</Question>
+<Question>**Wie heißt der traditionelle Segen des Papstes zu Ostern?**</Question>
 <Answer>Veni, vidi, vici</Answer>
 <Answer>Ora et labora</Answer>
 <Answer correct>Urbi et orbi</Answer>
@@ -105,7 +105,7 @@ Die Bedeutung des Segens leitet sich aus seiner Übersetzung und seinem historis
 
 <Quiz>
 <QuizImage src="q07.jpg" alt="Ein Osterfeuer wird angezündet" />
-<Question>**Welcher besondere Oster-Brauch in NRW ist sogar UNESCO Weltkulturerbe?**</Question>
+<Question>**Welcher besondere Osterbrauch in NRW ist sogar UNESCO-Weltkulturerbe?**</Question>
 <Answer>Osterhasseln in Buldern</Answer>
 <Answer>Semmelsegnen in Attendorn</Answer>
 <Answer correct>Brennende Osterräder in Lügde</Answer>
