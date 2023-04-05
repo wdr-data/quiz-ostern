@@ -3,7 +3,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 10px 15px;
+  padding: 10px 10px;
   border: none;
   background: var(--brand-primary);
   color: #fff;
