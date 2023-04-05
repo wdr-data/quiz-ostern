@@ -30,7 +30,7 @@ Wie gut kennen Sie sich mit den Osterbräuchen aus? Testen Sie ihr Wissen!
 Viel Spaß beim Durchklicken und Quizzen!
 
 <Quiz>
-<QuizImage src="q01.png" alt="Pinker Eierkarton mit Tulpen und Plastikhäschen verziert" />
+<QuizImage src="q01.jpg" alt="Pinker Eierkarton mit Tulpen und Plastikhäschen verziert" />
 <Question>**Was wird an Ostern überhaupt gefeiert?**</Question>
 <Answer>Die Auferstehung der Jungfrau Maria</Answer>
 <Answer>Die Auferstehung des Judas</Answer>
@@ -42,7 +42,7 @@ Nach dem neuen Testament ist Jesus am dritten Tag nach seiner Kreuzigung von den
 </Quiz>
 
 <Quiz>
-<QuizImage src="q02.png" alt="Nest mit bunten Ostereiern" />
+<QuizImage src="q02.jpg" alt="Nest mit bunten Ostereiern" />
 <Question>**Was steckt hinter den bunten Eiern?**</Question>
 <Answer>Farbige Eier sollten den Teufel vertreiben</Answer>
 <Answer correct>Kennzeichnung, um gekochte Eier von rohen zu unterscheiden</Answer>
@@ -54,7 +54,7 @@ In der Fastenzeit durften keine Eier gegessen werden. Deshalb wurden sie gekocht
 </Quiz>
 
 <Quiz>
-<QuizImage src="q03.png" alt="Korb mit einem Kaninchen und bemalten Eiern" />
+<QuizImage src="q03.jpg" alt="Korb mit einem Kaninchen und bemalten Eiern" />
 <Question>**Warum bringt der Osterhase die Eier?**</Question>
 <Answer>Wegen eines Übersetzungsfehlers</Answer>
 <Answer>Weil Hühner nach christlichem Glauben unrein sind</Answer>
@@ -68,7 +68,7 @@ Ganz klar ist das nicht, die häufigste Erklärung lautet aber: Hasen gelten als
 <Link href="https://www1.wdr.de/nachrichten/ostern-wissen-kirche-100.html" title="Hase, Eier, Feuer: Was hat das eigentlich mit Ostern zu tun?" />
 
 <Quiz>
-<QuizImage src="q04.png" alt="Frühstückstisch mit Ostereiern" />
+<QuizImage src="q04.jpg" alt="Frühstückstisch mit Ostereiern" />
 <Question>**Was kommt an Karfreitag traditionell auf den Tisch?**</Question>
 <Answer>Lamm im Salzteig</Answer>
 <Answer>Bunte Eierspeisen</Answer>
@@ -80,7 +80,7 @@ An Karfreitag wurde Jesus gekreuzigt. In Gedenken daran wird in der katholischen
 </Quiz>
 
 <Quiz>
-<QuizImage src="q05.png" alt="Kind winkt vom Rücksitz eines Autos" />
+<QuizImage src="q05.jpg" alt="Kind winkt vom Rücksitz eines Autos" />
 <Question>**Warum heißt es eigentlich "Kar"?**</Question>
 <Answer correct>Althochdeutsch Kara = Trauer</Answer>
 <Answer>Italienisch "carnevale" = Fleisch, lebe wohl</Answer>
@@ -92,7 +92,7 @@ Der Begriff kommt vom althochdeutschen Kara, was so viel bedeutet wie Kummer ode
 </Quiz>
 
 <Quiz>
-<QuizImage src="q06.png" alt="Der Papst spricht von seinem Balkon" />
+<QuizImage src="q06.jpg" alt="Der Papst spricht von seinem Balkon" />
 <Question>**Wie heißt der traditionelle Ostergruß des Papstes?**</Question>
 <Answer>Veni, vidi, vici</Answer>
 <Answer>Ora et labora</Answer>
@@ -104,7 +104,7 @@ Die Bedeutung des Segens leitet sich aus seiner Übersetzung und seinem historis
 </Quiz>
 
 <Quiz>
-<QuizImage src="q07.png" alt="Ein Osterfeuer wird angezündet" />
+<QuizImage src="q07.jpg" alt="Ein Osterfeuer wird angezündet" />
 <Question>**Welcher besondere Oster-Brauch in NRW ist sogar UNESCO Weltkulturerbe?**</Question>
 <Answer>Osterhasseln in Buldern</Answer>
 <Answer>Semmelsegnen in Attendorn</Answer>
@@ -116,7 +116,7 @@ Beim traditionellen Osterräderlauf in Lügde bei Bad Pyrmont rollen am Osterson
 </Quiz>
 
 <Quiz>
-<QuizImage src="q08.png" alt="Ein Osterfeuer wird vorbereitet" />
+<QuizImage src="q08.jpg" alt="Ein Osterfeuer wird vorbereitet" />
 <Question>**Der traditionelle Osterfeuer-Brauch wird in Attendorn im Sauerland besonders zelebriert. Dort gibt es gleich vier Osterfeuervereine. Wie nennt man die Mitglieder?**</Question>
 <Answer>Eierschaukler</Answer>
 <Answer>Heiße Hasen</Answer>
@@ -130,7 +130,7 @@ Jede der vier Attendorner Poorten (Stadttore) beherbergt seinen eigenen Osterfeu
 <Link href="https://www1.wdr.de/nachrichten/osterferien-nrw-ausflugstipps-familie-100.html" title="Ostern in NRW – Ausflugtipps für die Region" />
 
 <Quiz>
-<QuizImage src="q09.png" alt="Kalendereintrag mit dem Titel 'Geschenke besorgen'" />
+<QuizImage src="q09.jpg" alt="Kalendereintrag mit dem Titel 'Geschenke besorgen'" />
 <Question>**Warum ist Ostern ein bewegliches Fest?**</Question>
 <Answer correct>Das Datum hängt vom Vollmond ab</Answer>
 <Answer>Weil unklar ist, wann genau Jesus tatsächlich gestorben ist</Answer>
@@ -142,7 +142,7 @@ Ostern ist immer am Sonntag nach dem ersten Vollmond des Frühlings. Alle andere
 </Quiz>
 
 <Quiz>
-<QuizImage src="q10.png" alt="Eierlikör, serviert aus Schokeiern" />
+<QuizImage src="q10.jpg" alt="Eierlikör, serviert aus Schokeiern" />
 <Question>**Was hat Eierlikör mit Ostern zu tun?**</Question>
 <Answer>Traditionelles Geschenk zu Ostern</Answer>
 <Answer correct>Nichts</Answer>
