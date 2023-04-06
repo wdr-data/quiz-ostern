@@ -1,7 +1,7 @@
 ---
 title: "Das große Oster-Quiz"
 description: Beantworten Sie alle zehn Fragen richtig?
-author: Timo Landenberger, Katja Goebel
+author: Timo Landenberger, Katja Goebel, Michelle Winter (Grafik)
 pub_date: "2023-04-06"
 heroImage: "aufmacher.png"
 heroAlt: "Das große Oster-Quiz"

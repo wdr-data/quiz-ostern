@@ -1,1 +1,1 @@
-Timo Landenberger, Katja Goebel
+Timo Landenberger, Katja Goebel, Michelle Winter (Grafik)
